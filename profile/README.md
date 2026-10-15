@@ -31,8 +31,6 @@ For everyday use, ProtonMail keeps the workflow familiar. You open your inbox, r
 
 ## Overview
 
-![ProtonMail](FOTO)
-
 ProtonMail turns ordinary email into a private channel. With ProtonMail encrypted email and ProtonMail secure inbox workflows in mind, users can read, write, and organize messages with less exposure than conventional providers allow. ProtonMail end-to-end encryption is the core: content is encrypted on your device before it travels, and ProtonMail zero-access encryption keeps stored messages sealed on the server side. ProtonMail privacy protection is not a setting you toggle once; it is the baseline for every conversation.
 
 ---
